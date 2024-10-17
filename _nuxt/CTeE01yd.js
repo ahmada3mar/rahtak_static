@@ -1,0 +1,1 @@
+import"./CieyZeqY.js";const s={response:{},columns:[{key:"id",label:"ID",sortable:!0},{key:"name",label:"Name",sortable:!0},{key:"permissions",label:"Permissions"},{key:"created_at",label:"Created At",sortable:!0}]};export{s as default};
