@@ -1,1 +1,0 @@
-import"./YQULvX1L.js";const t={response:{},columns:[{key:"name",label:"Name",sortable:!0},{key:"id",label:"Merchant ID",sortable:!0},{key:"created_at",label:"Created At",sortable:!0}],resolveColor:e=>e==1?"emerald":e==0?"orange":"blue"};export{t as default};
