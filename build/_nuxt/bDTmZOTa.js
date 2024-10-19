@@ -1,0 +1,1 @@
+import"./BBRSKody.js";const t={response:{},columns:[{key:"id",label:"ID",sortable:!0},{key:"name",label:"الأسم",sortable:!0},{key:"mobile",label:"رقم الهاتف",sortable:!0},{key:"transactions",label:"مجموع الحركات"}],get filters(){return[]}};export{t as default};
