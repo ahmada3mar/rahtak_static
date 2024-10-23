@@ -1,0 +1,1 @@
+import"./BKwvWj0J.js";const t={response:{},columns:[{key:"id",label:"ID",sortable:!0},{key:"name",label:"Name",sortable:!0},{key:"description",label:"description"},{key:"created_at",label:"Created At",sortable:!0}]};export{t as default};
